@@ -1,0 +1,24 @@
+{
+  "title": "Prompt: Extração de Dados TIC Governo Eletrônico",
+  "description": "Prompt operacional para construir pipeline R reprodutível com dados da pesquisa TIC Governo Eletrônico (Cetic.br). Inclui o código R extraído do prompt. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "Cetic.br",
+    "pesquisa acadêmica",
+    "R",
+    "TIC Governo Eletrônico",
+    "governo digital",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
